@@ -1,0 +1,47 @@
+things to do for this project. 
+Stone handle = Durability?
+Iron handle = + X damage?
+Gold handle = item haste?
+Diamond handle = Durability + Haste + Damage?
+
+/////////////////////////////////////////////////////////////////////////////////////////
+Implement better handles component
+     [x]Base handles   
+        [x] Stone handle 
+        [x] Iron handle
+        [x] Gold handle
+        [x] Diamond handle
+    [] Add handles to pickaxes
+        [] Iron
+        [] Gold
+        [] Diamond
+    [] Add handles to axes
+        [] Iron
+        [] Gold
+        [] Diamond   
+    [] Add handles to hoe
+        [] Iron
+        [] Gold
+        [] Diamond
+
+
+[x] Handles resource component
+    [x]Base handles   
+        [x] Stone handle 
+        [x] Iron handle
+        [x] Gold handle
+        [x] Diamond handle
+    [x] Add handles to pickaxes
+        [x] Iron
+        [x] Gold
+        [x] Diamond
+    [x] Add handles to axes
+        [x] Iron
+        [x] Gold
+        [x] Diamond
+    [x] Add handles to hoe
+        [x] Iron
+        [x] Gold
+        [x] Diamond
+
+

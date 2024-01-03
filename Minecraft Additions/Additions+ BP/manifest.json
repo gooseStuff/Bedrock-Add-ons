@@ -1,0 +1,41 @@
+{
+  "format_version": 2,
+  "metadata": {
+    "authors": ["Flo"]
+  },
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "min_engine_version": [1, 20, 50],
+    "uuid": "936d1392-452d-410e-bb2b-e251380f7503",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "aa98ccc9-7e51-484f-b14f-2ad81a6cad4e",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "uuid": "6802d550-5303-45d0-9716-b20127e5bac4",
+      "version": [1, 0, 0],
+      "language": "javascript",
+      "entry": "scripts/Main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.8.0-beta"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "1.2.0-beta"
+    },
+    {
+      "module_name": "@minecraft/server-admin",
+      "version": "1.0.0-beta"
+    }
+  ]
+}

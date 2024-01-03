@@ -1,0 +1,15 @@
+{
+    "format_version": "1.20.50",
+    "minecraft:item": {
+       "description": {
+           "identifier": "add:gold_handle",
+           "category": "Items"
+       },
+       "components": {
+        "minecraft:icon": {
+            "texture": "gold_handle"
+        },
+        "minecraft:max_stack_size": 64
+       }
+    }   
+   }

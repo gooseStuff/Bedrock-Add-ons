@@ -1,0 +1,29 @@
+{
+  "resource_pack_name": "Additions+",
+  "texture_data": {
+    "stone_handle": {
+      "textures": "textures/items/handles/stone_handle"
+    },
+    "iron_handle": {
+      "textures": "textures/items/handles/iron_handle"
+    },
+    "gold_handle": {
+      "textures": "textures/items/handles/gold_handle"
+    },
+    "diamond_handle": {
+      "textures": "textures/items/handles/diamond_handle"
+    },
+    "daxe_dh": {
+      "textures": "textures/items/tools/axes/diamond/daxe_dh"
+    },
+    "daxe_gh": {
+      "textures": "textures/items/tools/axes/diamond/daxe_gh"
+    },
+    "daxe_ih": {
+      "textures": "textures/items/tools/axes/diamond/daxe_ih"
+    },
+    "daxe_sh": {
+      "textures": "textures/items/tools/axes/diamond/daxe_sh"
+    }
+  }
+}

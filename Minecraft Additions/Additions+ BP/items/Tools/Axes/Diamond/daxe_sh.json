@@ -1,0 +1,51 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "add:daxe_sh",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "daxe_sh"
+      },
+      "minecraft:tags": {
+        "tags": ["axe"]
+      },
+      "minecraft:display_name": {
+        "value": "§fReinforced Diamond Axe"
+      },
+      "minecraft:enchantable": {
+        "value": 20,
+        "slot": "axe"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:hand_equipped": true,
+      "minecraft:damage": 7,
+      "minecraft:durability": {
+        "max_durability": 25,
+        "damage_chance": {
+          "min": 100,
+          "max": 100
+        }
+      },
+      "minecraft:digger": {
+        "use_efficiency": true,
+        "destroy_speeds": [
+          {
+            "block": {
+              "tags": "q.any_tag('wood' , 'dirt')"
+            },
+            "speed": 6
+          },
+          {
+            "block": {
+              "tags": "q.any_tag('stone' , 'metal' , 'diamond_pick_diaggable')"
+            },
+            "speed": 3
+          }
+        ]
+      }
+    }
+  }
+}

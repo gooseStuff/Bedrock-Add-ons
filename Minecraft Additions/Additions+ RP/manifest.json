@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Additions+",
+    "name": "pack.name",
+    "uuid": "319341b7-eb81-43db-869f-36339feee688",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 50]
+  },
+  "modules": [
+    {
+      "description": "Additions+",
+      "type": "resources",
+      "uuid": "936d1392-452d-410e-bb2b-e251380f7503",
+      "version": [1, 0, 0]
+    }
+  ]
+}
